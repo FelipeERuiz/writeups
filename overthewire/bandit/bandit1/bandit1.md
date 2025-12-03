@@ -1,6 +1,6 @@
 ```
-password
-ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+user: bandit1
+password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ```
 En este nivel la contraseña esta en un directorio llamado `-` en el directorio `/home/bandit1`
 Para ingresar a él podemos utilizar la ruta absoluta:
